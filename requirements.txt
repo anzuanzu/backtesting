@@ -1,5 +1,6 @@
-pandas
-numpy
 streamlit
-openpyxl
-gunicorn
+pandas
+yfinance
+numpy
+datetime
+
